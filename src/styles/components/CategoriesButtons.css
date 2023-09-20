@@ -1,0 +1,17 @@
+/* css */
+.container-btn-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.btn-filter-category {
+  background-color: #f1f1f1;
+  border: none;
+  border-radius: 10px;
+  color: rgba(0, 0, 0, 0.698);
+  outline: none;
+  padding: 0.3rem 1rem;
+}

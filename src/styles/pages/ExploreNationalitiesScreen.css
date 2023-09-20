@@ -1,0 +1,10 @@
+/* css */
+.select-Nationalities {
+  background-color: #f1f1f1;
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+  margin-top: 0.5rem;
+  outline: none;
+  padding: 0 1rem;
+}

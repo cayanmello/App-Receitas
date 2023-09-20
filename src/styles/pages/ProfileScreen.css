@@ -1,0 +1,33 @@
+/* css */
+.btn-profile {
+  background-color: white;
+  border: 1px solid var(--redBackground);
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  height: 50px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  transition: 0.3s;
+  width: 200px;
+}
+
+.btn-profile:hover {
+  background-color: var(--redBackground);
+  color: white;
+  transition: 0.3s;
+}
+
+.container-profile {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.img-profile {
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+

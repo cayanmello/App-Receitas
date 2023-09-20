@@ -1,0 +1,46 @@
+/* css */
+.container-explore {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.btn-explore-foods {
+  align-items: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.473), rgba(0, 0, 0, 0.185)) , url('https://i.postimg.cc/g2LNRVYx/explore-food.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  font-size: 18px;
+  font-weight: 900;
+  height: min(300px, 25vh);
+  justify-content: center;
+  margin-top: 2rem;
+  outline: none;
+  width: min(800px, 85vw);
+}
+
+.btn-explore-drinks {
+  align-items: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.473), rgba(0, 0, 0, 0.246)) , url('https://images.pexels.com/photos/452737/pexels-photo-452737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  font-size: 18px;
+  font-weight: 900;
+  height: min(300px, 25vh);
+  justify-content: center;
+  outline: none;
+  width: min(800px, 85vw);
+}
+

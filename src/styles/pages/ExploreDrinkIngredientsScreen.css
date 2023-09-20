@@ -1,0 +1,8 @@
+/* css */
+.btn-ingredient-drinks {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px #b8b8b8;
+  height: 180px;
+  width: 150px;
+}

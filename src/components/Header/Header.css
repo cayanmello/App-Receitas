@@ -1,0 +1,30 @@
+/* css */
+.wrapper-header {
+  align-items: center;
+  background-color: #f1f1f1;
+  color: var(--redBackground);
+  display: flex;
+  height: 50px;
+  justify-content: space-around;
+}
+
+.wrapper-header h1 {
+  font-size: 1.8rem;
+  font-weight: 900;
+  margin: auto 0;
+}
+
+.icon-profile {
+  color: white;
+  height: 30px;
+  width: 30px;
+}
+
+.icon-search {
+  height: 30px;
+  width: 30px;
+}
+
+.icon-search-off {
+  visibility: hidden;
+}

@@ -1,0 +1,97 @@
+/* css */
+.wrapper-done-favorite {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px #b8b8b8;
+  display: flex;
+  height: 200px;
+  width: 335px;
+}
+
+.wrapper-descriptions {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.wrapper-descriptions p {
+  margin-left: 1rem;
+}
+
+.div-icon {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  height: 50px;
+  margin-left: 1rem;
+  position: relative;
+}
+
+.text-link-done {
+  left: -1rem;
+  margin-top: 8px;
+  position: absolute;
+}
+
+.text-link-favorite {
+  left: 1.5rem;
+  margin-top: 14px;
+  position: absolute;
+}
+
+.icon-share {
+  height: 25px;
+  width: 25px;
+}
+
+.btn-done {
+  border: none;
+  border-radius: 10px 0 0 10px;
+  height: 200px;
+  outline: none;
+  position: relative;
+  width: 150px;
+}
+
+.img-recipe {
+  border-radius: 10px 0 0 10px;
+  height: 200px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.tags {
+  background-color: var(--redBackground);
+  border-radius: 10px;
+  color: white;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+  width: 150px;
+}
+
+.text-name {
+  color: black;
+  font-size: 1.3rem;
+  font-weight: 900;
+  margin-top: -10px;
+}
+
+.date {
+  margin-top: -15px;
+}
+
+.tags.type {
+  background-color: gray;
+  margin-top: -10px;
+}
+
+.icon-favorite {
+  height: 25px;
+
+  /* margin-left: 2rem; */
+  width: 25px;
+}
